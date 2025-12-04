@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import { Dashboard } from './components/dashboard/Dashboard';
-import { Transactions } from './components/dashboard/Transactions';
-import { Settings } from './components/dashboard/Settings';
+import { Dashboard } from './Dashboard';
+import { Transactions } from './Transactions';
+import { Settings } from './Settings';
 import { MOCK_SALES_DATA } from './constants';
 import { ViewType } from './types';
 
